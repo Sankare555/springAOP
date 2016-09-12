@@ -1,0 +1,10 @@
+*~
+*.bak
+*.iml
+*.pyc
+*.ipr
+*.iws
+.idea
+target
+.settings
+doc/build
