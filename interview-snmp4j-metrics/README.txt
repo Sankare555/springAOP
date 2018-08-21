@@ -1,4 +1,5 @@
-We have an existing application, which is an SNMP client that is based
+ReadMe:
+We have an exsting application, which is an SNMP client that is based
 on SNMP4J. The application does only one simple thing: it retrieves
 the sysDescr ("system description") OID from an SNMP agent, in an
 endless loop, every second.
